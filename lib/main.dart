@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
           title: title,
         ),
         body: const Center(
-          child: Text("Ce aplicatie faina"),
+          child: Text("Ce aplicatie faina am facut si urmeaza sa mai fac"),
         ),
         bottomNavigationBar: BottomNavigationBar(
           backgroundColor: Colors.white,
